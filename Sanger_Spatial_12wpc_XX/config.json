@@ -9,7 +9,7 @@
       "files": [
         {
           "fileType": "anndata.zarr",
-          "url": "https://idelvalle.github.io/Spatial_sharing/Sanger_Spatial_12wpc_XX/A/0/7eb14c41-c6fd-4bfa-9f19-96b09d0ee4a1.adata.zarr",
+          "url": "https://idelvalle.github.io/Spatial_sharing_ExtGT/Sanger_Spatial_12wpc_XX/A/0/7eb14c41-c6fd-4bfa-9f19-96b09d0ee4a1.adata.zarr",
           "options": {
             "obsSpots": {
               "path": "obsm/X_spatial"
@@ -72,7 +72,7 @@
         },
         {
           "fileType": "image.ome-zarr",
-          "url": "https://idelvalle.github.io/Spatial_sharing/Sanger_Spatial_12wpc_XX/A/1/91e50a1e-e430-40f4-af53-4df958b7fe0a.ome.zarr"
+          "url": "https://idelvalle.github.io/Spatial_sharing_ExtGT/Sanger_Spatial_12wpc_XX/A/1/91e50a1e-e430-40f4-af53-4df958b7fe0a.ome.zarr"
         }
       ]
     }
